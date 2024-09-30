@@ -13,8 +13,8 @@
     "dev": "yarn concurrently 'yarn nodemon' 'tsc --watch --preserveWatchOutput' -n node,ts -c green.bgBlack,white.bgBlue"
   },
   "dependencies": {
-    "@full-stack-ts/client": "*",
-    "@full-stack-ts/shared": "*",
+    "@fullstack-graphql/client": "*",
+    "@fullstack-graphql/shared": "*",
     "@graphql-codegen/typescript": "^2.4.8",
     "@graphql-codegen/typescript-resolvers": "^2.6.1",
     "@graphql-tools/graphql-file-loader": "^6.0.0",

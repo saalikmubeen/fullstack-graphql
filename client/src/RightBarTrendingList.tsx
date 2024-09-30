@@ -1,6 +1,6 @@
 import { faCog } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { isHashtagTrend, Trend } from '@full-stack-ts/shared';
+import { isHashtagTrend, Trend } from '@fullstack-graphql/shared';
 import * as React from 'react';
 import { integerWithCommas } from './utils/number';
 

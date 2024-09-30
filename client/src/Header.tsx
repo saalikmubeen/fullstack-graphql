@@ -1,6 +1,6 @@
 import * as React from 'react';
 import CurrentUserSummary from './CurrentUserSummary';
-import { User, UserStatistics } from '@full-stack-ts/shared';
+import { User, UserStatistics } from '@fullstack-graphql/shared';
 
 export interface DetailedUser extends User {
   coverUrl?: string | null;

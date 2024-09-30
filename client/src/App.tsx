@@ -1,5 +1,5 @@
 import { gql } from '@apollo/client';
-import { isDefined } from '@full-stack-ts/shared';
+import { isDefined } from '@fullstack-graphql/shared';
 import * as React from 'react';
 import { useGetCurrentUserQuery } from './generated/graphql';
 import Header from './Header';

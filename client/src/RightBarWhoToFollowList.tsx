@@ -1,4 +1,4 @@
-import { Suggestion } from '@full-stack-ts/shared';
+import { Suggestion } from '@fullstack-graphql/shared';
 import * as React from 'react';
 
 export interface RightBarWhoToFollowListProps {

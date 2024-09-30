@@ -1,4 +1,4 @@
-import { SearchResult } from '@full-stack-ts/shared';
+import { SearchResult } from '@fullstack-graphql/shared';
 import * as React from 'react';
 
 const SEARCH_TOPICS: SearchResult[] = [

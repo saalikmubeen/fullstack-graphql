@@ -1,0 +1,14 @@
+{
+  "name": "@fullstack-graphql/shared",
+  "version": "0.0.0",
+  "author": "Saalik Mubeen <salikmubien@gmail.com>",
+  "license": "NOLICENSE",
+  "private": true,
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo 'no shared tests yet'",
+    "build": "tsc",
+    "dev": "tsc --watch --preserveWatchOutput"
+  }
+}
